@@ -702,7 +702,7 @@ div.code-toolbar > .toolbar a:hover,div.code-toolbar > .toolbar a:focus,div.code
 
 
 .post-outer{margin:0 0 0 -3%;padding:0}
-.post-outer:hover{background:#fbfbfb}
+/*.post-outer:hover{background:#fbfbfb}*/
 .post-outer-box{width:calc(50% - 3%);float:right;padding:0;box-sizing:border-box;margin:0 0 15px 3%!important}
 .snippet-img{margin:0;display:grid}
 .snippet-thumbnail{float:none;background-position:center;padding:0;width:100%;height:auto;margin:auto;position:relative;display:block;overflow:hidden;border-radius:3px}
