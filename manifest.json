@@ -1,0 +1,21 @@
+{
+  "lang": "ar",
+  "dir": "rtl",
+  "name": "مجلة الخليج",
+  "short_name": "Khaleej Magazine",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-ie52Oh_wT-s/WHHi75UACjI/AAAAAAAAEYI/hh5CBpSFEsUrDk0X1WQBqmE4vhd-PAOdQCPcB/s57/ignielcom.png",
+    "sizes": "57x57",
+    "type": "image/webp"
+  }, {
+    "src": "https://4.bp.blogspot.com/-ie52Oh_wT-s/WHHi75UACjI/AAAAAAAAEYI/hh5CBpSFEsUrDk0X1WQBqmE4vhd-PAOdQCPcB/s120/ignielcom.png",
+    "sizes": "120x120"
+  }],
+  "scope": "/",
+  "id": "superracer",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "aliceblue",
+  "background_color": "red"
+}
