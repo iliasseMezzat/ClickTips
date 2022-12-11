@@ -1,21 +1,23 @@
-{
-  "lang": "ar",
-  "dir": "rtl",
-  "name": "مجلة الخليج",
-  "short_name": "Khaleej Magazine",
-  "icons": [{
-    "src": "https://4.bp.blogspot.com/-ie52Oh_wT-s/WHHi75UACjI/AAAAAAAAEYI/hh5CBpSFEsUrDk0X1WQBqmE4vhd-PAOdQCPcB/s57/ignielcom.png",
-    "sizes": "57x57",
-    "type": "image/webp"
-  }, {
-    "src": "https://4.bp.blogspot.com/-ie52Oh_wT-s/WHHi75UACjI/AAAAAAAAEYI/hh5CBpSFEsUrDk0X1WQBqmE4vhd-PAOdQCPcB/s120/ignielcom.png",
-    "sizes": "120x120"
-  }],
-  "scope": "/",
-  "id": "superracer",
-  "start_url": "/",
-  "display": "fullscreen",
-  "orientation": "landscape",
-  "theme_color": "aliceblue",
-  "background_color": "red"
+   {
+    "name": "CLICK TIPS",
+    "short_name": "by Alphabit Group",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.clicktips.net"
 }
